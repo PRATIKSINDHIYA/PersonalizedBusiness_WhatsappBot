@@ -5,6 +5,11 @@ This repository contains the **AI Agent Rulebook**, **pricing details**, and a *
 
 ---
 
+## Conversation Flow
+![Flowchart](https://github.com/PRATIKSINDHIYA/PersonalizedBusiness_WhatsappBot/blob/main/Screenshot%202025-09-21%20184944.png
+)
+
+
 ## 🚀 Services & Pricing
 
 | Service                       | Starting Price (INR) | Key Features |
