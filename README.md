@@ -9,19 +9,6 @@ This repository contains the **AI Agent Rulebook**, **pricing details**, and a *
 ![Flowchart](https://github.com/PRATIKSINDHIYA/PersonalizedBusiness_WhatsappBot/blob/main/Screenshot%202025-09-21%20184944.png
 )
 
-
-## 🚀 Services & Pricing
-
-| Service                       | Starting Price (INR) | Key Features |
-|--------------------------------|----------------------|--------------|
-| **Single Page Website**        | 2,999               | Responsive design, basic SEO |
-| **Full-Stack Website (React + Node)** | 6,999       | React frontend, Node/Express backend, DB setup, Login/Authentication, Payment Gateway |
-| **WhatsApp AI Chatbot**        | 4,999               | 24/7 auto-reply, booking management, FAQ handling |
-| **Android App Development**    | 7,999               | Native/Hybrid app, Play Store deployment |
-| **Combo (Website + Bot + SEO)**| 11,999              | Full digital package with SEO optimization |
-
-> 💡 **Max 10% discount** allowed if customer negotiates.
-
 ---
 
 ## 📊 Google Sheet Lead Template
